@@ -54,7 +54,7 @@ Merci de lire les fichiers :
 
 ## Auteurs
 
-* **Ilan DAYET - Tech Labo**
+O. C.
 
 ## License
 
